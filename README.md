@@ -1,12 +1,26 @@
-# React + Vite
+🎵 Music Streaming Website 🎶
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple music streaming website built using React.js and Tailwind CSS, where users can browse albums, play songs online, and control playback with a custom music player.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Play Songs Online – Stream songs with a built-in player
 
-## Expanding the ESLint configuration
+✅ Music Albums & Songs – Browse featured albums and tracks
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Custom Music Controls – Play, pause, and skip songs
+
+✅ Responsive UI – Styled with Tailwind CSS for a clean design
+
+🛠️ Tech Stack
+
+React.js – Frontend framework
+
+Tailwind CSS – Styling for a modern UI
+
+Static Data – Songs and albums are added manually
+
+🎧 A simple and lightweight frontend music player!
+
+
+🚀 Feel free to fork & contribute!
